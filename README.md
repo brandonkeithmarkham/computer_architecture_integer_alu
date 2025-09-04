@@ -25,7 +25,7 @@ The goal of this project was to design a behavioral-level ALU capable of perform
 
 ## 📄 Documentation
 Full project documentation, including Verilog code listings, testbench, and waveform results, can be found here:  
-👉 [**Final Report**](./docs/ALU_Final_Project.pdf)  
+👉 [**Final Report**](./Turing%20Machine-ProjectStep3/Computer_Architecture_Project__Final_Report.pdf)
 
 ## 🔖 Notes
 - Each module was implemented as a standalone component, then instantiated in the ALU.  
